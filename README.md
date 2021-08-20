@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @karlaCavalcante
-- 👀 I’m interested in ...
+- 👀 I’m interesada em cresçer na área de programação.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-karlaCavalcante/karlaCavalcante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️  Estou em busca de uma oportunidade.
+- 📫 pode me encontrar atravém do e-mail: meulugaraosol2019@gmail.com
